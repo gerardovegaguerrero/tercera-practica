@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tercera-practica/static/css/main.0f507823.chunk.css",
+    "main.js": "/tercera-practica/static/js/main.a096b878.chunk.js",
+    "main.js.map": "/tercera-practica/static/js/main.a096b878.chunk.js.map",
+    "runtime-main.js": "/tercera-practica/static/js/runtime-main.60bec534.js",
+    "runtime-main.js.map": "/tercera-practica/static/js/runtime-main.60bec534.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/tercera-practica/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dad157a3.chunk.js": "/tercera-practica/static/js/2.dad157a3.chunk.js",
+    "static/js/2.dad157a3.chunk.js.map": "/tercera-practica/static/js/2.dad157a3.chunk.js.map",
+    "static/js/3.23540784.chunk.js": "/tercera-practica/static/js/3.23540784.chunk.js",
+    "static/js/3.23540784.chunk.js.map": "/tercera-practica/static/js/3.23540784.chunk.js.map",
+    "index.html": "/tercera-practica/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/tercera-practica/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.0f507823.chunk.css.map": "/tercera-practica/static/css/main.0f507823.chunk.css.map",
+    "static/js/2.dad157a3.chunk.js.LICENSE.txt": "/tercera-practica/static/js/2.dad157a3.chunk.js.LICENSE.txt",
+    "static/media/bote.b13aebc5.jpg": "/tercera-practica/static/media/bote.b13aebc5.jpg",
+    "static/media/logo.6ce24c58.svg": "/tercera-practica/static/media/logo.6ce24c58.svg",
+    "static/media/mercado.40aa2275.jpg": "/tercera-practica/static/media/mercado.40aa2275.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60bec534.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dad157a3.chunk.js",
+    "static/css/main.0f507823.chunk.css",
+    "static/js/main.a096b878.chunk.js"
+  ]
+}
