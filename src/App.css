@@ -14,16 +14,44 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #ffe100;
+  min-height: 25vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(3px);
+  color: rgb(255, 217, 0);
+}
+.Lista {
+
+  margin-top: 50px;
+}
+.productos {
+
+  margin-top: 50px;
 }
 
+.diseño{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: calc(1px + 2vmin);
+}
+
+.carrito{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: calc(5px + 2vmin);
+  align-items: flex-start;
+}
+.App-bote {
+  height: 5vmin;
+  pointer-events: none;
+}
 .App-link {
   color: #61dafb;
 }
